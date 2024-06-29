@@ -2,17 +2,6 @@
 
 Welcome to the **Events Analysis** repository! This project contains a comprehensive analysis of various events, providing insights and visualizations to help understand patterns and trends.
 
-## Table of Contents
-
-- [Description](#description)
-- [Contents](#contents)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Description
 
@@ -33,8 +22,33 @@ Ensure you have the following software installed:
 - [Python](https://www.python.org/downloads/) (version 3.6 or higher)
 - [Jupyter Notebook](https://jupyter.org/install)
 
-### Installation
+<br><br>
+<div style="text-align: center;">
+  <img src="https://github.com/Gimhana123/Events-Analysis-Project/blob/main/Screenshot%20(1086).png?raw=true">
+</div><br><br>
+<div style="text-align: center;">
+  <img src="https://github.com/Gimhana123/Events-Analysis-Project/blob/main/Screenshot%20(1087).png?raw=true">
+</div><br><br>
+<div style="text-align: center;">
+  <img src="https://github.com/Gimhana123/Events-Analysis-Project/blob/main/Screenshot%20(1087).png?raw=true">
+</div><br><br>
+<div style="text-align: center;">
+  <img src="https://github.com/Gimhana123/Events-Analysis-Project/blob/main/Screenshot%20(1089).png?raw=true">
+</div><br><br>
+<div style="text-align: center;">
+  <img src="https://github.com/Gimhana123/Events-Analysis-Project/blob/main/Screenshot%20(1090).png?raw=true">
+</div><br><br>
+<div style="text-align: center;">
+  <img src="https://github.com/Gimhana123/Events-Analysis-Project/blob/main/Screenshot%20(1091).png?raw=true">
+</div><br><br>
+<div style="text-align: center;">
+  <img src="https://github.com/Gimhana123/Events-Analysis-Project/blob/main/Screenshot%20(1092).png?raw=true">
+</div><br><br>
+<div style="text-align: center;">
+  <img src="https://github.com/Gimhana123/Events-Analysis-Project/blob/main/Screenshot%20(1093).png?raw=true">
+</div><br><br>
+<div style="text-align: center;">
+  <img src="https://github.com/Gimhana123/Events-Analysis-Project/blob/main/Screenshot%20(1094).png?raw=true">
+</div><br><br>
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/your-username/events-analysis.git
+
